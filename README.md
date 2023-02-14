@@ -12,7 +12,7 @@ To install the dependencies for this project, run the following command:
 `npm install`
 ## Running the Application
 To run the application, execute the following command:  
-`npm start`
+`npm start`  
 Once the application is running, you can view it in your web browser by navigating to http://localhost:3000.
 
 ## Built With
